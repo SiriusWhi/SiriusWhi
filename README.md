@@ -3,7 +3,7 @@
 - Smart contract development
 - NFT marketplace
 - Chain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana, Tezos)
-- Solidty & Rust
+- Solidty & Golang & Rust
 - Wallets & Clients (Ganache, Metamask, Exodus, Mist, Parity, Geth, MEW)
 - dApp (Ethers, Web3, infura, Hardhat, MIST/Remix)
 - FT & NFT Token and coin development
