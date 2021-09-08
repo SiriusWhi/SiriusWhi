@@ -8,7 +8,7 @@
 - dApp (Ethers, Web3, infura, Hardhat, MIST/Remix)
 - FT & NFT Token and coin development
 - LGE, ICO, IDO, Presale, Dex, ERC-(20, 721, 1155, 223) & Audit
-- React / Vue / Angular
+- React / React Native / Vue / Angular
 - Django / Laravel / Node.js / Ruby on Rails
 - TypeScript, Bootstrap, TailWind
 
