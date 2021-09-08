@@ -1,6 +1,7 @@
 ### Smart contract developer and full-stack engineer
 
 - Smart contract development
+- NFT marketplace
 - Chain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana, Tezos)
 - Solidty & Rust
 - Wallets & Clients (Ganache, Metamask, Exodus, Mist, Parity, Geth, MEW)
