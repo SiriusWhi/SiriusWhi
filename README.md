@@ -1,5 +1,8 @@
-### Smart contract developer and full-stack engineer
+### Senior Web Developer
 
+- React / React Native / Vue / Angular
+- Django / Laravel / Node.js / Ruby on Rails
+- TypeScript, Bootstrap, TailWind
 - Smart contract development
 - NFT marketplace
 - Chain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana, Tezos)
@@ -8,9 +11,6 @@
 - dApp (Ethers, Web3, infura, Hardhat, MIST/Remix)
 - FT & NFT Token and coin development
 - LGE, ICO, IDO, Presale, Dex, ERC-(20, 721, 1155, 223) & Audit
-- React / React Native / Vue / Angular
-- Django / Laravel / Node.js / Ruby on Rails
-- TypeScript, Bootstrap, TailWind
 
 **Languages and Tools:**
 
