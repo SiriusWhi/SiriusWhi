@@ -1,16 +1,20 @@
 ### Senior Web Developer
 
 - React / React Native / Vue / Angular
-- Django / Laravel / Node.js / Ruby on Rails
 - TypeScript, Bootstrap, TailWind
-- Smart contract development
-- NFT marketplace
-- Chain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana, Tezos)
-- Solidty & Golang & Rust
-- Wallets & Clients (Ganache, Metamask, Exodus, Mist, Parity, Geth, MEW)
-- dApp (Ethers, Web3, infura, Hardhat, MIST/Remix)
-- FT & NFT Token and coin development
-- LGE, ICO, IDO, Presale, Dex, ERC-(20, 721, 1155, 223) & Audit
+- Node.js (with frameworks like Express.js)
+- Python (with frameworks like Django or Flask)
+- Ruby (with frameworks like Ruby on Rails)
+- React Native (for cross-platform mobile apps)
+- Flutter (for cross-platform mobile apps)
+- Kotlin (for native Android development)
+- Swift (for native iOS development)
+- Java (for native Android development)
+- Git (for version control)
+- RESTful APIs (for data communication)
+- SQL (for database management)
+- Unit Testing Frameworks (for ensuring code quality)
+- Understanding of Design Patterns (for writing maintainable code)
 
 **Languages and Tools:**
 
