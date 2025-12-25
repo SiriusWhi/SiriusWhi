@@ -37,13 +37,3 @@ I specialize in building secure, hyper-efficient decentralized systems that brid
 | **Frontend/SDK** | Viem, Ethers.js, Wagmi, Next.js |
 | **Security** | Slither, Manual Audits, Formal Verification |
 | **Infrastructure** | Docker, Kubernetes, AWS, Alchemy |
-
----
-
-### Favorite Workflow
-```mermaid
-graph LR
-    A[Foundry/Rust] --> B[Smart Contract Layer]
-    B --> C[Indexing & Oracles]
-    C --> D[Next.js/Wagmi SDK]
-    D --> E[Secure User Interface]
