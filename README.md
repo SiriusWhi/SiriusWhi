@@ -1,39 +1,32 @@
-# 👨‍💻 Senior Blockchain Architect & Lead Engineer
+# Senior Full Stack, Blockchain & AI Architect
 
-### Bringing Security, Scalability, and Sustainability to Web3
+### Engineering Intelligent, Decentralized, and Scalable Digital Ecosystems
 
-I specialize in building secure, hyper-efficient decentralized systems that bridge the gap between complex cryptography and seamless user experiences. With a deep focus on **EVM internals**, **Zero-Knowledge primitives**, and **modular architecture**, I don't just write code—I design sustainable ecosystems.
+I am a multi-disciplinary Lead Engineer specialized in the convergence of **Autonomous AI**, **Blockchain Infrastructure**, and **Enterprise-Grade Full Stack Applications**. I bridge the gap between complex back-end logic and high-performance user interfaces, delivering end-to-end solutions that are secure, intelligent, and hyper-scalable.
 
 ---
 
-### 🏛️ Architectural Philosophy & Leadership
-* **Security-First Development:** Utilizing formal verification, property-based testing, and rigorous auditing to protect TVL.
-* **Optimization Obsessed:** Expert in gas optimization and Yul, ensuring protocols remain viable during high network congestion.
-* **Leading the Transition:** Focused on **Account Abstraction (ERC-4337)** and **L2 scaling strategies** to onboard the next billion users.
+### The Triple-Threat Expertise
+
+* **Blockchain Architect:** Expert in EVM internals, ZK-Rollups, and gas-optimized Smart Contracts. I design the trust layers for the modern web.
+* **AI Engineer:** Specialized in Decentralized Intelligence (DeAI), zkML (Zero-Knowledge Machine Learning), and Agentic frameworks that execute on-chain.
+* **Full Stack Lead:** Crafting seamless, high-performance UIs and robust distributed back-ends using the modern T3/T4 stack.
 
 ---
 
 ### Technical Arsenal
 
-#### **Core Blockchain Stack**
-* **Languages:** `Solidity` (Expert), `Rust` (Anchor/Substrate), `Yul`, `Go`, `TypeScript`.
-* **Frameworks:** `Foundry`, `Hardhat`, `Anchor`, `Truffle`.
-* **Standards:** `ERC-20`, `ERC-721/1155`, `ERC-4337` (Account Abstraction), `ERC-4626` (Vaults).
-* **Environments:** `Ethereum`, `Arbitrum/Optimism`, `Polygon`, `Solana`, `Base`.
+#### **Blockchain & Web3**
+* **Languages:** `Solidity` (Expert/Yul), `Rust` (Anchor/Substrate), `Go`.
+* **Frameworks:** `Foundry`, `Hardhat`, `LayerZero`, `The Graph`.
+* **Deep Tech:** `ERC-4337` (Account Abstraction), `ERC-6551`, `ZKP` (zk-SNARKs/STARKs).
 
-#### **DeFi & Advanced Engineering**
-* **Protocols:** AMMs (Uniswap v3/v4), Lending (Aave/Compound), Liquid Staking (LSTs).
-* **Cryptography:** Zero-Knowledge Proofs (zk-SNARKs/STARKs), ECDSA, Multi-Party Computation (MPC).
-* **Infrastructure:** `Chainlink` (CCIP/VRF/Data Feeds), `The Graph`, `LayerZero`, `Axelar`.
-* **Security & Testing:** `Slither`, `Echidna`, `Halmos`, `MythX`, `OpenZeppelin Defender`.
+#### **Artificial Intelligence**
+* **Frameworks:** `PyTorch`, `LangChain`, `OpenAI SDK`, `HuggingFace`.
+* **DeAI:** `zkML` (EZKL, Modulus), `Agentic Workflows`, `Vector Databases` (Pinecone/Milvus).
+* **LLM Ops:** Fine-tuning, Prompt Engineering, and RAG (Retrieval-Augmented Generation).
 
----
-
-### Tech Stack
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Smart Contracts** | Solidity, Rust, Foundry, Yul |
-| **Frontend/SDK** | Viem, Ethers.js, Wagmi, Next.js |
-| **Security** | Slither, Manual Audits, Formal Verification |
-| **Infrastructure** | Docker, Kubernetes, AWS, Alchemy |
+#### **Full Stack Development**
+* **Frontend:** `Next.js 15`, `React`, `Tailwind CSS`, `Framer Motion`.
+* **Backend:** `Node.js`, `Python (FastAPI/Django)`, `PostgreSQL`, `Redis`.
+* **State & SDKs:** `Viem`, `Wagmi`, `TanStack Query`, `Zustand`.
