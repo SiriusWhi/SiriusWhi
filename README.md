@@ -1,7 +1,5 @@
 # Senior Developer | Blockchain • AI • Full Stack
 
-**Don't hesitate to ask me any questions at [frankoeryk84@gmail.com](mailto:frankoeryk84@gmail.com)**
-
 ---
 
 ### Overview
